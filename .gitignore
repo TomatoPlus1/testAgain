@@ -1,0 +1,4 @@
+log.txt
+/dir1
+
+#log.txt + dir1(file folder) will be ignored from stage
