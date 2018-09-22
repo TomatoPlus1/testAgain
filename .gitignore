@@ -2,3 +2,4 @@ log.txt
 /dir1
 
 #log.txt + dir1(file folder) will be ignored from stage
+#use *.txt to ignore all text files... alot of things to do
